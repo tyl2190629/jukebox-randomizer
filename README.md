@@ -1,2 +1,2 @@
 # jukebox-randomizer
-A Java jukebox simulation that randomly selects and prints songs from. predefined playlist.
+A Java jukebox simulation that randomly selects and prints songs from a predefined playlist.
